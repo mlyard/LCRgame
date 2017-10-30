@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  LCR.cpp
+c:\users\mlyard\desktop\mlyard\education\classes\snhu\done\it 312\it-312_code_files\final project\lcr\lcr\lcr.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LCR.vcxproj -> C:\Users\mlyard\Desktop\Mlyard\Education\Classes\SNHU\Done\IT 312\IT-312_Code_Files\Final Project\LCR\Debug\LCR.exe
+  LCR.vcxproj -> C:\Users\mlyard\Desktop\Mlyard\Education\Classes\SNHU\Done\IT 312\IT-312_Code_Files\Final Project\LCR\Debug\LCR.pdb (Full PDB)
